@@ -1,8 +1,3 @@
-
-from cgitb import text
-from pickle import TRUE
-from tkinter import font
-from unittest import makeSuite
 import pygame
 import sys
 from random import randint
